@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="eh-banner.png" alt="Eldar Hadžović banner" width="100%"/>
+  <img src="eh-banner.svg" alt="Eldar Hadžović banner" width="100%"/>
 </div>
 
 <br/>
