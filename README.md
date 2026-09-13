@@ -1,3 +1,5 @@
+
+Readme · MD
 <div align="center">
   <img src="eh-banner.svg" alt="Eldar Hadžović banner" width="100%"/>
 </div>
@@ -26,9 +28,7 @@ thing on time.
 - 🌱 Sharpening full-stack architecture (React, Flutter, PostgreSQL)
 - 🤝 Previously repped an AI startup (DAKAEi AI) to 50+ prospects
 - 🏆 1st place, Bosnia Bank International Negotiation League
-  
 <br/>
-
 ### Programming Languages
  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
