@@ -83,7 +83,7 @@ thing on time.
 
 </div>
 
-<br/>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eldarhadzi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
