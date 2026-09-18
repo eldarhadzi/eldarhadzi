@@ -85,9 +85,8 @@ thing on time.
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eldarhadzi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldarhadzi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+<div align="center"> 
+  <img src="https://github-readme-stats-one-psi-21.vercel.app/api?username=eldarhadzi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> 
+  <img src="https://github-readme-stats-one-psi-21.vercel.app/api/top-langs/?username=eldarhadzi&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </div>
 
 
