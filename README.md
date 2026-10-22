@@ -82,6 +82,7 @@ thing on time.
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eldar-hadzovic-cv.vercel.app)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eldarhadzovic03@gmail.com)
 
+
 </div>
 
 <br/>
@@ -90,3 +91,4 @@ thing on time.
   <img src="https://github-readme-stats.vercel.app/api?username=eldarhadzi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldarhadzi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
+
