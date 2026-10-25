@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="eh-banner.svg" alt="Eldar Hadžović banner" width="100%"/>
 </div>
