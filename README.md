@@ -100,5 +100,3 @@ thing on time.
     alt="Top Languages"
   />
 </div>
-
-
