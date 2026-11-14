@@ -84,9 +84,7 @@ thing on time.
 
 </div>
 
-
 <br/>
-
 
 <div align="center">
   <img
